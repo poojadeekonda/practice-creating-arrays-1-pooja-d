@@ -1,0 +1,18 @@
+let groceryItems = ["Milk", "Bread", "Eggs", "Apples", "Cheese"];
+
+let prices = [3.49, 2.99, 5.75];
+
+// 1. Log the entire array of grocery items.
+console.log(groceryItems);
+
+// 2. Log the entire array of prices.
+console.log(prices);
+
+// 3. Log three individual items of your choice.
+console.log("First item: " + groceryItems[0]);  
+console.log("Third item: " + groceryItems[2]); 
+console.log("Fifth item: " + groceryItems[4]); 
+
+// 4. Log two prices of your choice.
+console.log("Second price: $" + prices[1]);     
+console.log("Third price: $" + prices[2]);  
