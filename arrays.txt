@@ -1,4 +1,4 @@
-let groceryItems = ["Milk", "Bread", "Eggs", "Apples", "Cheese"];
+let groceryItems = ["Milk", "Chicken", "Eggs", "Beans", "Coffee"];
 
 let prices = [3.49, 2.99, 5.75];
 
